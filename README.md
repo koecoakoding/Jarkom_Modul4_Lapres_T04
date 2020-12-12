@@ -51,8 +51,7 @@ Mengatur IP pada setiap interface di setiap router server dan client
 # UML (CIDR)
 Membuat Topologi seperti pada CPT untuk gambaran, dan menambahkan router di stiap antara router
 
-![gambar](https://user-images.githubusercontent.com/55182321/101984553-be55b580-3cb4-11eb-8b6d-e18573a204c4.png)
-![gambar](https://user-images.githubusercontent.com/55182321/101984565-d88f9380-3cb4-11eb-8fea-695fc06a51ab.png)
+![gambar](https://user-images.githubusercontent.com/55182321/101984612-273d2d80-3cb5-11eb-8d5b-c92728af4291.png)
 
 
 ## Subneting 
