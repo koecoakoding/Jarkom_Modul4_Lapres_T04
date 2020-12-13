@@ -102,9 +102,15 @@ pada setiap interface yang dilewati oleh routing
 Untuk mengecek hasil routing menggunakan route -n pada setiap router
 
 ![gambar](https://user-images.githubusercontent.com/55182321/102005527-f825cb00-3d4b-11eb-9070-568110bcb7fd.png)
+
 ![gambar](https://user-images.githubusercontent.com/55182321/102005580-73877c80-3d4c-11eb-9a6b-e4735ceff008.png)
+
 ![gambar](https://user-images.githubusercontent.com/55182321/102005592-8d28c400-3d4c-11eb-80b4-c0e418aedd13.png)
+
 ![gambar](https://user-images.githubusercontent.com/55182321/102005636-f0b2f180-3d4c-11eb-9ab6-097752ca7545.png)
+
 ![gambar](https://user-images.githubusercontent.com/55182321/102005645-04f6ee80-3d4d-11eb-9621-62f0f10db2b3.png)
+
 ![gambar](https://user-images.githubusercontent.com/55182321/102005712-9a927e00-3d4d-11eb-9fd4-be5240a95230.png)
+
 ![gambar](https://user-images.githubusercontent.com/55182321/102005725-b85fe300-3d4d-11eb-928d-d30dc4385aca.png)
